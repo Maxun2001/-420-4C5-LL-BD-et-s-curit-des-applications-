@@ -2,6 +2,7 @@
   "Films": [
     {
     "Titre": "Les Minions",
+    "Description":"Minions Stuart, Kevin,and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
     "directeur": "Kyle Balda, Pierre Coffin",
     "Auteur": "Brian Lynch,",
     "Date": 2015,
@@ -22,7 +23,8 @@
     },
     {
     "Titre": "Fight Club",
-    "directeur": "David Fincher",
+    "Description":"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.", 
+    "directeur": "David Fincher",     
     "Auteur": " Chuck Palahniuk, Jim Uhls,",
     "Date": 1999,
     "Vedette": [
