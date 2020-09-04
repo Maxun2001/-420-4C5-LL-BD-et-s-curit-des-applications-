@@ -7,9 +7,9 @@
     "Auteur": "Brian Lynch,",
     "Date": 2015,
     "Budget":"$63,000,000",
-    "Fin de semaine d'ouverture au USA":"$11,035,485",
-    "Total USA":"$37,030,102",
-    "Total dans le monde":"$101,218,804", 
+    "FinDeSemaineDouvertureAuUSA":"$11,035,485",
+    "TotalUSA":"$37,030,102",
+    "TotalDansLeMonde":"$101,218,804", 
     "Vedette": [
       {
         "Nom": "Sandra Bullock",
@@ -35,9 +35,9 @@
     "Auteur": " Chuck Palahniuk, Jim Uhls,",
     "Date": 1999,
     "Budget":"$74,000,000",
-    "Fin de semaine d'ouverture au USA":"$115,718,405",
-    "Total USA":"$336,045,770",
-    "Total dans le monde":"$1,159,443,203", 
+    "FinDeSemaineDouvertureAuUSA":"$115,718,405",
+    "TotalUSA":"$336,045,770",
+    "TotalDansLeMonde":"$1,159,443,203", 
     "Vedette": [
       {
         "Nom": "Brad Pitt",
